@@ -1,0 +1,32 @@
+.mat{
+    background-color: none;
+    text-align: center;
+   
+}
+
+.pic{
+    background-color:skyblue;
+    text-align: center;
+}
+
+.image{
+    margin:5px;
+    padding:1px;
+    
+}
+
+.steps{color:blue; 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+.pa{
+    background-color:gray;
+    color:skyblue;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+    padding:5px;
+    margin:0px;
+}
+
